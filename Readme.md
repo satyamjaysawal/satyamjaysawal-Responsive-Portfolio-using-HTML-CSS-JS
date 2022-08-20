@@ -58,8 +58,8 @@ Source code is available on my Git hub link
 🔗[Source code](https://github.com/satyamjaysawal/Responsive-Portfolio-using-HTML-CSS-JS-satyam_jaysawal)
 
 ## 🚀 Deployed Link : _Netlify_
-[![image](https://user-images.githubusercontent.com/108862706/184974666-250f6d16-200e-44c5-96cd-6e90a53b9f9c.png)](https://html-css-p4.netlify.app/)
-(https://html-css-p4.netlify.app/)
+[![image](https://user-images.githubusercontent.com/108862706/184974666-250f6d16-200e-44c5-96cd-6e90a53b9f9c.png)](https://responsive-portfolio-html-css-js.netlify.app/)
+(https://responsive-portfolio-html-css-js.netlify.app/)
 
 
 
