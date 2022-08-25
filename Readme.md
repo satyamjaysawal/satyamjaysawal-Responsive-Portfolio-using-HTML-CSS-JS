@@ -3,10 +3,6 @@
 This is a Personal Responsive Portfolio page which is created using HTML, CSS & JS. This website is fully responsive for Mobile Phone and Tablet.
 
 
-# [ineuron.ai](https://ineuron.ai/)  : Learn from the best of industry
-
-###### _Highest in quality, affordable in price_
-
 [![ineuron](https://user-images.githubusercontent.com/108862706/184478502-02f2c131-c006-43e0-a88c-a25c1376739a.png)](https://ineuron.ai/)
 
 ## 🔗Responsive-Portfolio-using-HTML-CSS-JS-satyam_jaysawal : _Screenshot_
