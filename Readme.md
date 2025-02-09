@@ -54,7 +54,7 @@ Source code is available on my Git hub link
 🔗[Source code](https://github.com/satyamjaysawal/satyamjaysawal-Responsive-Portfolio-using-HTML-CSS-JS)
 
 ## 🚀 Deployed Link : _Netlify_
-[![image](https://user-images.githubusercontent.com/108862706/184974666-250f6d16-200e-44c5-96cd-6e90a53b9f9c.png)](https://satyamjaysawal-responsive-portfolio-using-html-css-js.vercel.app/)
+[![image](https://user-images.githubusercontent.com/108862706/184974666-250f6d16-200e-44c5-96cd-6e90a53b9f9c.png)](https://satyam-portfolio-website.vercel.app/)
 (https://satyamjaysawal-responsive-portfolio-using-html-css-js.vercel.app/)
 
 
